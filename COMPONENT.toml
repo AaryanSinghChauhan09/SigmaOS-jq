@@ -3,7 +3,7 @@ name = "SigmaOS-jq"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "jq component"
+description = "SigmaOS SigmaOS-jq component"
 upstream = []
 
 [contract]
